@@ -76,7 +76,7 @@ const AddProduct = () => {
 
           <div className="field">
             <div className="control">
-              <button type="submit" className="button is-success">
+              <button type="submit" className="button is-success mt-5">
                 Save
               </button>
             </div>
